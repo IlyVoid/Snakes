@@ -1,0 +1,5 @@
+# ninja log v5
+12	152	7352451136896011	CMakeFiles/Snakes.dir/main.c.obj	5ebcbf0fcb1040d6
+17	149	7352452055175484	CMakeFiles/Snakes.dir/movement.c.obj	7184217d74fa7ee5
+2	243	7352456192481118	build.ninja	5caf93d80a2b9d3c
+12	130	7352454365713453	Snakes.exe	16cf8aa72a6b3a62
