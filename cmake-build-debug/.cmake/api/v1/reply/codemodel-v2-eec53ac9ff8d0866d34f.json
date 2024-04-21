@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Snakes::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Snakes-Debug-1f539017c86673bc6620.json",
+					"jsonFile" : "target-Snakes-Debug-b94e35284a6d8c9543e6.json",
 					"name" : "Snakes",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/quint/CLionProjects/Snakes/cmake-build-debug",
-		"source" : "C:/Users/quint/CLionProjects/Snakes"
+		"build" : "C:/Users/quint/OneDrive/Documents/GitHub/Snakes/cmake-build-debug",
+		"source" : "C:/Users/quint/OneDrive/Documents/GitHub/Snakes"
 	},
 	"version" : 
 	{

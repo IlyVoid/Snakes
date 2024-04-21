@@ -4,9 +4,7 @@ project(Snakes C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Snakes main.c
-        movement.c
-        movement.h
-        movement.c
-        movement.h
+        GameHeader.h
+        utils.c
 )
 target_link_libraries(Snakes -lOpenGL32 -lfreeglut -lglu32)
